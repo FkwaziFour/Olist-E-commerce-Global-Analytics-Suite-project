@@ -49,9 +49,9 @@ Olist-E-commerce-Global-Analytics-Suite-project/
 │   ├── Analytical outputs
 │
 ├── 📁 Case Study
-│   ├── Business report
-│   ├── Findings
-│   ├── Recommendations
+│   ├── Problem Statement
+│   ├── Project Overview
+│   ├── Roadmap
 │
 └── README.md
 ```
